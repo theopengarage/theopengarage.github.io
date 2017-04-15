@@ -1118,6 +1118,7 @@ Waypoints
   font-family: "Vintage", sans-serif;
   top:0;
   text-align: center;
+  flex: 1;
 }
 #constr_msg h1 {
   padding: 0;
